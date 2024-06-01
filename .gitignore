@@ -1,0 +1,9 @@
+
+# Ignore Node modules
+node_modules/
+build/
+build_stable/
+
+# Ignore .env files
+.env
+.env.*
